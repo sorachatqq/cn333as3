@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizAppCompose</string>
+    <string name="finished" />
+    <string name="your_scored" />
+    <string name="exit" />
+    <string name="play_again" />
+    <string name="question_count" />
+    <string name="score" />
+</resources>
